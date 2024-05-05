@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-ul{
+    width: 100%;
+}
+
+.home-img{
+    width: 50vh;
+}
+.home{
+   width: 100%;
+   height: 537px;
+}
+.main-heading{
+    color: white;
+}
+.hm-subheading{
+    color: red;
+}
+.home-content{
+    color: white;
+    
+}
+.about{
+    width: 100%;
+   height: 537px;
+}
+.about-img{
+   width: 50vh;
+   border-top-right-radius: 25px;
+   border-bottom-left-radius: 25px;
+
+}
+.contact-heading {
+    color: white;
+    padding-bottom: 10px;
+}
+.contact-content p{
+    color: white;
+    
+}
+.contact-form{
+    color: white;
+    padding: 0px 20px;
+}
+.contact-form input{
+    color: white;
+
+}
+::placeholder {
+    color: white !important;
+    opacity: 1; 
+}
+.font-white{
+    color: white !important;
+}
+
+.skill-heading{
+    color: white;
+}
+.carousel-item img{
+    height: 500px;
+    object-fit: contain;
+
+}
+.card img{
+    height: 300px;
+    object-fit: cover;
+    
+}
